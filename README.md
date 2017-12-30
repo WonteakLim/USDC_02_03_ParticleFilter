@@ -139,3 +139,7 @@ Scoring each of landmark observation based on the distance from landmark observa
 
 We already have the likelihood of each particle. Basis on this likelihood, regenerate all of particles set to prevent monopolization of likelihood at some particles. So this resample method distribute probability evenly using discrete distribution function in C++
 
+#### Simulation
+
+[![Video Label](http://img.youtube.com/vi/WVN9lkWhvgE/0.jpg)](https://www.youtube.com/watch?v=WVN9lkWhvgE&feature=youtu.be)
+
